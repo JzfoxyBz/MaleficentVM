@@ -15,6 +15,13 @@ This VM provides practice challenges for malware development just like ctf chall
 - You can see the challenges, write the code in c/c++/rust/c# or any other language and upload the binary to get the flag
 - Take a snapshot of the VM so that you can revert back to the original state if anything error happens
 
+# Running the server manually 
+- If the server does not run automatically, login to the vm and run these commands from cmd as administrator
+```
+cd "C:\Users\flash\Desktop\myserver\myserver"
+python main.py
+```
+
 # Sample Challenges
 <img width="3564" height="1318" alt="image" src="https://github.com/user-attachments/assets/0fb5801a-720d-485d-8c61-21c7418de7ae" />
 
